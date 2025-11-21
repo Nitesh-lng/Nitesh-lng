@@ -92,14 +92,21 @@ Fine-tuning experiments in pure PyTorch.
 # GitHub Stats 
 
 <p align="center">
-
-  <!-- MAIN STATS -->
+  
+  <!-- MAIN STATS (LEFT SIDE) -->
   <img width="48%" 
        src="https://github-readme-stats.vercel.app/api?username=Nitesh-lng&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" />
 
-  <!-- DONUT CHART (Python + LangChain highlighted, C++ removed) -->
+  <!-- FIXED DONUT CHART (RIGHT SIDE) -->
   <img width="48%"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-lng&layout=donut&theme=tokyonight&hide_border=true&langs_count=5&hide=c,cpp,c%2B%2B,cmake,html,css,jupyter%20notebook&custom_title=Python%20•%20LangChain%20•%20LLM%20Stack" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-lng
+       &layout=donut
+       &theme=tokyonight
+       &hide_border=true
+       &langs_count=5
+       &hide=c,cpp,c%2B%2B,cmake,html,css,jupyter%20notebook
+       &custom_title=Most%20Used%20Tech:%20Python%20•%20LangChain%20•%20AWS" />
+  
 </p>
 
 
