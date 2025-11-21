@@ -33,7 +33,6 @@ My specialization includes:
 ---
 
 #  Featured Projects 
-These are your **top industry-grade projects** — pin these on GitHub:
 
 ###  **1. LangGraph AI Agent (Flagship)**
 Multi-LLM agent system using LangGraph, Groq, OpenAI & Tavily search.  
@@ -97,7 +96,7 @@ Fine-tuning experiments in pure PyTorch.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="70"/>
 </p>
 
-#  GitHub Stats (Python Highlighted)
+#  GitHub Stats 
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nitesh-lng&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" />
