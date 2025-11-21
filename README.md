@@ -88,28 +88,20 @@ Fine-tuning experiments in pure PyTorch.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="70"/>
 </p>
 
-#  GitHub Stats 
+
+# GitHub Stats 
 
 <p align="center">
 
   <!-- MAIN STATS -->
   <img width="48%" 
-       src="https://github-readme-stats.vercel.app/api?username=Nitesh-lng
-       &show_icons=true
-       &theme=tokyonight
-       &hide_border=true
-       &hide_title=true" />
+       src="https://github-readme-stats.vercel.app/api?username=Nitesh-lng&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" />
 
-  <!-- FIXED DONUT CHART → Show Python, Remove C/C++ -->
+  <!-- DONUT CHART (Python + LangChain highlighted, C++ removed) -->
   <img width="48%"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-lng
-       &layout=donut
-       &theme=tokyonight
-       &hide_border=true
-       &langs_count=5
-       &hide=c,cpp,c%2B%2B,cmake,html,css,jupyter%20notebook
-       &custom_title=Python%20•%20LangChain%20•%20LLM%20Stack" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-lng&layout=donut&theme=tokyonight&hide_border=true&langs_count=5&hide=c,cpp,c%2B%2B,cmake,html,css,jupyter%20notebook&custom_title=Python%20•%20LangChain%20•%20LLM%20Stack" />
 </p>
+
 
 ---
 
