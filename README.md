@@ -42,15 +42,7 @@ Multi-LLM agent system using LangGraph, Groq, OpenAI & Tavily search.
 Document-based RAG pipeline using LangChain + FAISS + DeepSeek.  
 **https://github.com/Nitesh-lng/RAG-PDF-DeepSeek**
 
-###  **3. financial-ai-playground**
-AI system using Groq, yfinance, and analytics algorithms.  
-**https://github.com/Nitesh-lng/financial-ai-playground**
-
-###  **4. Hyperparameter-Tuning-with-Optuna**
-Advanced ML optimization experiments.  
-**https://github.com/Nitesh-lng/Hyperparameter-Tuning-with-Optuna**
-
-###  **5. Fine_Tuning_PyTorch**
+###  **3. Fine_Tuning_PyTorch**
 Fine-tuning experiments in pure PyTorch.  
 **https://github.com/Nitesh-lng/Fine_Tuning_PyTorch**
 
@@ -99,8 +91,24 @@ Fine-tuning experiments in pure PyTorch.
 #  GitHub Stats 
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nitesh-lng&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-lng&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=c,cpp,c%2B%2B" />
+
+  <!-- MAIN STATS -->
+  <img width="48%" 
+       src="https://github-readme-stats.vercel.app/api?username=Nitesh-lng
+       &show_icons=true
+       &theme=tokyonight
+       &hide_border=true
+       &hide_title=true" />
+
+  <!-- FIXED DONUT CHART → Show Python, Remove C/C++ -->
+  <img width="48%"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-lng
+       &layout=donut
+       &theme=tokyonight
+       &hide_border=true
+       &langs_count=5
+       &hide=c,cpp,c%2B%2B,cmake,html,css,jupyter%20notebook
+       &custom_title=Python%20•%20LangChain%20•%20LLM%20Stack" />
 </p>
 
 ---
