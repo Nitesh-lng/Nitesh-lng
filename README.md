@@ -32,7 +32,7 @@ My specialization includes:
 
 ---
 
-#  Featured Projects (Best 6)
+#  Featured Projects 
 These are your **top industry-grade projects** — pin these on GitHub:
 
 ###  **1. LangGraph AI Agent (Flagship)**
@@ -47,11 +47,11 @@ Document-based RAG pipeline using LangChain + FAISS + DeepSeek.
 AI system using Groq, yfinance, and analytics algorithms.  
 **https://github.com/Nitesh-lng/financial-ai-playground**
 
-###  **3. Hyperparameter-Tuning-with-Optuna**
+###  **4. Hyperparameter-Tuning-with-Optuna**
 Advanced ML optimization experiments.  
 **https://github.com/Nitesh-lng/Hyperparameter-Tuning-with-Optuna**
 
-###  **3. Fine_Tuning_PyTorch**
+###  **5. Fine_Tuning_PyTorch**
 Fine-tuning experiments in pure PyTorch.  
 **https://github.com/Nitesh-lng/Fine_Tuning_PyTorch**
 
@@ -96,7 +96,6 @@ Fine-tuning experiments in pure PyTorch.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="70"/>
 </p>
----
 
 #  GitHub Stats (Python Highlighted)
 
@@ -120,7 +119,7 @@ Fine-tuning experiments in pure PyTorch.
 </p>
 
 
-# 📫 Contact & Links
+#  Contact & Links
 - ✉️ Email: **nnitesh0101@gmail.com**  
 - 🔗 LinkedIn: https://www.linkedin.com/in/kumarnitesh97/  
 - 🔗 Kaggle: https://www.kaggle.com/niteshk97  
@@ -128,5 +127,5 @@ Fine-tuning experiments in pure PyTorch.
 
 ---
 
-### ⭐ “Always building intelligent, scalable, and real-world AI systems.”
+### Building AI agents that think, reason, and deliver at scale
 
