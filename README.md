@@ -96,27 +96,6 @@ Fine-tuning experiments in pure PyTorch.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="70"/>
 </p>
-###  **AI Frameworks**
-<p>
-  <img src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4" width="45"/> <!-- LangChain -->
-  <img src="https://avatars.githubusercontent.com/u/17082019?s=200&v=4" width="45"/> <!-- LangGraph -->
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="45"/> <!-- HuggingFace -->
-  <img src="https://raw.githubusercontent.com/tavily/tavily-python/main/assets/tavily-logo.png" width="45"/> <!-- Tavily -->
-  <img src="https://avatars.githubusercontent.com/u/86615131?s=200&v=4" width="45"/> <!-- Groq -->
-</p>
-
-### ⚙ **Backend / DevOps**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-</p>
-
-### ☁ **Cloud**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60"/>
-</p>
-
 ---
 
 #  GitHub Stats (Python Highlighted)
@@ -140,14 +119,6 @@ Fine-tuning experiments in pure PyTorch.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitesh-lng&theme=tokyo-night&hide_border=true" />
 </p>
 
----
-
-#  GitHub Profile Trophy
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nitesh-lng&theme=algolia&no-bg=true&no-frame=true&column=6" />
-</p>
-
----
 
 # 📫 Contact & Links
 - ✉️ Email: **nnitesh0101@gmail.com**  
