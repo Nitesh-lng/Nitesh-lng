@@ -106,19 +106,3 @@ I am a pragmatic **AI Engineer & Data Scientist** with 2+ years of experience bu
 
 ---
 
-## 🧾 Notes — How to use
-1. Create a new **public repository** named **exactly** `Nitesh-lng`.  
-2. Replace its `README.md` content with this file.  
-3. Ensure your profile picture and pinned repos are set from your GitHub account.  
-4. (Optional) To show the animated banner image exactly as intended, replace the banner `src` with your hosted image URL (or GitHub repo raw image).  
-5. If you want, I can host a custom SVG/banner and provide the raw link you can paste.
-
----
-
-## ✅ Want me to do the final paste & tweaks?
-I can:
-- Generate a custom animated SVG banner (neon AI brain) and give you the exact `raw.githubusercontent` link.  
-- Tweak wording to match specific job descriptions (ML Research, LLM Engineer, AI Infra).  
-- Localize for ATS/resume extracts.
-
-If yes — reply: **“Make banner + host”** and I’ll produce the banner SVG and the final adjusted README for direct paste.
