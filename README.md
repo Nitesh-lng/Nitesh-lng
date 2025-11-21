@@ -18,7 +18,7 @@
 
 ---
 
-## 🔎 Executive Summary
+##  Executive Summary
 I am an **AI Engineer & Data Scientist** with 2+ years of experience building production-grade AI systems,  
 LLM-powered agents, scalable RAG pipelines, and custom transformer-based NLP models.
 
@@ -32,83 +32,71 @@ My specialization includes:
 
 ---
 
-# ⭐ Featured Projects (Best 6)
+#  Featured Projects (Best 6)
 These are your **top industry-grade projects** — pin these on GitHub:
 
-### 🚀 **1. LangGraph AI Agent (Flagship)**
+###  **1. LangGraph AI Agent (Flagship)**
 Multi-LLM agent system using LangGraph, Groq, OpenAI & Tavily search.  
 **https://github.com/Nitesh-lng/langgraph-ai-agent**
 
-### 📄 **2. RAG-PDF-DeepSeek**
+###  **2. RAG-PDF-DeepSeek**
 Document-based RAG pipeline using LangChain + FAISS + DeepSeek.  
 **https://github.com/Nitesh-lng/RAG-PDF-DeepSeek**
 
-### 💊 **3. pharma-chat-intelligence**
-Medical AI chatbot using FAISS, LangChain, Mistral-7B, Streamlit.  
-**https://github.com/Nitesh-lng/pharma-chat-intelligence**
-
-### 📊 **4. financial-ai-playground**
+###  **3. financial-ai-playground**
 AI system using Groq, yfinance, and analytics algorithms.  
 **https://github.com/Nitesh-lng/financial-ai-playground**
 
-### 🧪 **5. Hyperparameter-Tuning-with-Optuna**
+###  **3. Hyperparameter-Tuning-with-Optuna**
 Advanced ML optimization experiments.  
 **https://github.com/Nitesh-lng/Hyperparameter-Tuning-with-Optuna**
 
-### 🧠 **6. Fine_Tuning_PyTorch**
+###  **3. Fine_Tuning_PyTorch**
 Fine-tuning experiments in pure PyTorch.  
 **https://github.com/Nitesh-lng/Fine_Tuning_PyTorch**
 
 ---
 
-# 🧭 Core Competencies
+#  Core Competencies
 
 ###  **LLMs & Agentic AI**
-- LangGraph (hot in 2024–2025)  
+- LangGraph
 - LangChain  
 - Multi-LLM routing  
-- Prompt engineering & reasoning chains  
-- Chat agents & tool use
 
 ###  **RAG & Knowledge Retrieval**
-- FAISS  
-- Vector stores  
-- LlamaIndex  
 - Custom retrievers  
 - Document intelligence pipelines
 
 ###  **Deep Learning / NLP**
-- PyTorch  
+- PyTorch, Tensorflow
 - Transformer architecture  
-- GPT-2 level model built from scratch  
-- Tokenizers & embeddings
 
 ###  **Backend / MLOps**
-- FastAPI  
 - AWS Sagemaker  
 - Docker  
-- Model deployment & monitoring
 
 ---
 
-# 🛠 Tech Stack (Megha-Style Icons | Devicons + Premium Logos)
-
-### 🧑‍💻 **Programming**
+## Tech Stack
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/>
-</p>
-
-### 🤖 **Machine Learning / Deep Learning**
-<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45"/>
+  <img src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4" width="45"/>
+  <img src="https://avatars.githubusercontent.com/u/17082019?s=200&v=4" width="45"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/tavily/tavily-python/main/assets/tavily-logo.png" width="45"/>
+  <img src="https://avatars.githubusercontent.com/u/86615131?s=200&v=4" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="70"/>
 </p>
-
-### 🧠 **AI Frameworks**
+###  **AI Frameworks**
 <p>
   <img src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4" width="45"/> <!-- LangChain -->
   <img src="https://avatars.githubusercontent.com/u/17082019?s=200&v=4" width="45"/> <!-- LangGraph -->
@@ -131,7 +119,7 @@ Fine-tuning experiments in pure PyTorch.
 
 ---
 
-# 📊 GitHub Stats (Python Highlighted)
+#  GitHub Stats (Python Highlighted)
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nitesh-lng&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" />
