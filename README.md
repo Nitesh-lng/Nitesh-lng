@@ -63,27 +63,27 @@ Fine-tuning experiments in pure PyTorch.
 
 # 🧭 Core Competencies
 
-### 🔥 **LLMs & Agentic AI**
+###  **LLMs & Agentic AI**
 - LangGraph (hot in 2024–2025)  
 - LangChain  
 - Multi-LLM routing  
 - Prompt engineering & reasoning chains  
 - Chat agents & tool use
 
-### 🔥 **RAG & Knowledge Retrieval**
+###  **RAG & Knowledge Retrieval**
 - FAISS  
 - Vector stores  
 - LlamaIndex  
 - Custom retrievers  
 - Document intelligence pipelines
 
-### 🔥 **Deep Learning / NLP**
+###  **Deep Learning / NLP**
 - PyTorch  
 - Transformer architecture  
 - GPT-2 level model built from scratch  
 - Tokenizers & embeddings
 
-### 🔥 **Backend / MLOps**
+###  **Backend / MLOps**
 - FastAPI  
 - AWS Sagemaker  
 - Docker  
@@ -131,7 +131,7 @@ Fine-tuning experiments in pure PyTorch.
 
 ---
 
-# 📊 GitHub Stats (C+ Hidden, Python Highlighted)
+# 📊 GitHub Stats (Python Highlighted)
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nitesh-lng&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" />
@@ -140,21 +140,21 @@ Fine-tuning experiments in pure PyTorch.
 
 ---
 
-# 🔥 Contribution Streak
+#  Contribution Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitesh-lng&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🔥 Activity Graph
+#  Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitesh-lng&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-# 🏆 GitHub Profile Trophy
+#  GitHub Profile Trophy
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Nitesh-lng&theme=algolia&no-bg=true&no-frame=true&column=6" />
 </p>
@@ -166,7 +166,6 @@ Fine-tuning experiments in pure PyTorch.
 - 🔗 LinkedIn: https://www.linkedin.com/in/kumarnitesh97/  
 - 🔗 Kaggle: https://www.kaggle.com/niteshk97  
 - 🔗 GitHub: https://github.com/Nitesh-lng  
-- 📄 Resume: `/mnt/data/NITESH KUMAR SINGH.pdf` (upload to GitHub if you want live link)
 
 ---
 
