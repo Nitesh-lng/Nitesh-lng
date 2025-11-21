@@ -48,26 +48,7 @@ Fine-tuning experiments in pure PyTorch.
 
 ---
 
-#  Core Competencies
 
-###  **LLMs & Agentic AI**
-- LangGraph
-- LangChain  
-- Multi-LLM routing  
-
-###  **RAG & Knowledge Retrieval**
-- Custom retrievers  
-- Document intelligence pipelines
-
-###  **Deep Learning / NLP**
-- PyTorch, Tensorflow
-- Transformer architecture  
-
-###  **Backend / MLOps**
-- AWS Sagemaker  
-- Docker  
-
----
 
 ## Tech Stack
 <p>
@@ -92,21 +73,8 @@ Fine-tuning experiments in pure PyTorch.
 # GitHub Stats 
 
 <p align="center">
-  
-  <!-- MAIN STATS (LEFT SIDE) -->
-  <img width="48%" 
-       src="https://github-readme-stats.vercel.app/api?username=Nitesh-lng&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" />
-
-  <!-- FIXED DONUT CHART (RIGHT SIDE) -->
-  <img width="48%"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-lng
-       &layout=donut
-       &theme=tokyonight
-       &hide_border=true
-       &langs_count=5
-       &hide=c,cpp,c%2B%2B,cmake,html,css,jupyter%20notebook
-       &custom_title=Most%20Used%20Tech:%20Python%20•%20LangChain%20•%20AWS" />
-  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nitesh-lng&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-lng&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=c,cpp,c%2B%2B" />
 </p>
 
 
