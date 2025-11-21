@@ -34,32 +34,33 @@ My specialization includes:
 
 
 
-## ⭐ Featured Projects
+## Featured Projects
 
-### 🚀 LangGraph AI Agent (Flagship)
+### LangGraph AI Agent (Flagship)
 Multi-LLM agent system using LangGraph, Groq, OpenAI & Tavily search.  
 https://github.com/Nitesh-lng/langgraph-ai-agent
 
-### 📄 RAG-PDF-DeepSeek
+### RAG-PDF-DeepSeek
 RAG system using LangChain + FAISS + DeepSeek.  
 https://github.com/Nitesh-lng/RAG-PDF-DeepSeek
 
-### 🧠 GPT-2 Transformer From Scratch
+### GPT-2 Transformer From Scratch
 142M parameter GPT-style transformer implemented in pure PyTorch.
 
-### 💊 Pharma Chat Intelligence
-AI medical chatbot using LangChain, FAISS, Mistral-7B.
+
+## Core Competencies
+**LLMs & Agentic AI: ** LangGraph, LangChain, multi-agent flows, tool use, reasoning chains, LLM orchestration  
+
+**RAG & Retrieval: ** FAISS, LlamaIndex, semantic search, document intelligence, vector retrieval  
+
+**Deep Learning / NLP: ** Transformers, PyTorch, attention mechanisms, embedding models, GPT-like architectures  
+
+**Backend / MLOps: ** FastAPI, AWS Sagemaker, Docker, CI/CD, model deployment & monitoring  
+
+**Data Engineering: ** Feature engineering, SQL, preprocessing, data validation
 
 
-## 🧭 Core Competencies
-**LLMs & Agentic AI:** LangGraph, LangChain, multi-agent flows, tool use, reasoning chains, LLM orchestration  
-**RAG & Retrieval:** FAISS, LlamaIndex, semantic search, document intelligence, vector retrieval  
-**Deep Learning / NLP:** Transformers, PyTorch, attention mechanisms, embedding models, GPT-like architectures  
-**Backend / MLOps:** FastAPI, AWS Sagemaker, Docker, CI/CD, model deployment & monitoring  
-**Data Engineering:** Feature engineering, SQL, preprocessing, data validation
-
-
-## 🛠 Tech Stack
+## Tech Stack
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/>
@@ -90,3 +91,13 @@ AI medical chatbot using LangChain, FAISS, Mistral-7B.
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Nitesh-lng&theme=onedark&no-frame=true&no-bg=true&column=6" />
 </p>
+
+---
+
+# Contact & Links
+- ✉️ Email: **nnitesh0101@gmail.com**  
+- 🔗 LinkedIn: https://www.linkedin.com/in/kumarnitesh97/  
+- 🔗 Kaggle: https://www.kaggle.com/niteshk97  
+- 🔗 GitHub: https://github.com/Nitesh-lng  
+
+---
