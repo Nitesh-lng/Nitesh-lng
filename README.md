@@ -19,7 +19,7 @@
 ---
 
 ##  Executive Summary
-I am an **AI Engineer & Data Scientist** with 2+ years of experience building production-grade AI systems,  
+I am an **AI Engineer & Data Scientist** with 3.5+ years of experience building production-grade AI systems,  
 LLM-powered agents, scalable RAG pipelines, and custom transformer-based NLP models.
 
 My specialization includes:
