@@ -142,7 +142,7 @@ Multi-agent support bot with a supervisor router + 4 specialist agents, a versio
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitesh-lng&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitesh-lng&theme=react-dark&hide_border=true&count_private=true" width="100%" alt="Contribution Graph" />
 </p>
 
 ---
