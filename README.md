@@ -125,8 +125,8 @@ Multi-agent support bot with a supervisor router + 4 specialist agents, a versio
   and replace "github-readme-stats.vercel.app" with your own URL.
 -->
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nitesh-lng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nitesh-lng&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=c,cpp" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nitesh-lng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-lng&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=c,cpp&cache_seconds=1800" />
 </p>
 
 ---
