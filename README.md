@@ -11,7 +11,7 @@
 ====================================================================
 -->
 
-<h1 align="center">Nitesh Kumar 👋</h1>
+<h1 align="center">Nitesh Kumar</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A371F7&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+LLM+%26+Agentic+AI+Specialist;Building+production+multi-agent+systems;RAG+%E2%80%A2+FastAPI+%E2%80%A2+LangGraph+%E2%80%A2+PyTorch" alt="Typing SVG" />
@@ -31,7 +31,7 @@
 
 ---
 
-## 🧭 About Me
+##  About Me
 
 **AI Engineer (4 Yrs) building production agentic systems - multi-agent orchestration with LangGraph, advanced RAG with dense vector retrieval & re-ranking, stateful agent memory and LLM microservices, deployed on Docker, Kubernetes & AWS.
 
@@ -114,22 +114,6 @@ Multi-agent support bot with a supervisor router + 4 specialist agents, a versio
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
----
-
-##  GitHub Stats
-
-<!--
-  NOTE: The two stats cards below use the PUBLIC github-readme-stats
-  instance, which is heavily rate-limited and may show a broken image.
-  For a card that never breaks, self-host it (see chat for 5-min steps)
-  and replace "github-readme-stats.vercel.app" with your own URL.
--->
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nitesh-lng&theme=tokyonight" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nitesh-lng&theme=tokyonight" />
-</p>
-
----
 
 ##  Contribution Streak
 
