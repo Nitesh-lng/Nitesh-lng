@@ -33,42 +33,42 @@
 
 ## 🧭 About Me
 
-I'm an **AI Engineer & Data Scientist** with **3.5+ years** of experience building production-grade AI systems — LLM-powered agents, scalable RAG pipelines, and custom transformer-based NLP models. I write my own code end-to-end, from FastAPI backends to LangGraph agent graphs to deployment.
+**AI Engineer (4 Yrs) building production agentic systems - multi-agent orchestration with LangGraph, advanced RAG with dense vector retrieval & re-ranking, stateful agent memory and LLM microservices, deployed on Docker, Kubernetes & AWS.
 
-- 🔭 **Currently building** — **SattvikBhojnam**, a full-stack cloud-kitchen platform, plus its dedicated 6-agent AI microservice
-- 🌱 **Learning** — advanced LangGraph patterns, tools/function-calling, and memory persistence
-- 💬 **Ask me about** — LLM agents, RAG systems, applied NLP, FastAPI
-- ⚡ **Off-hours** — maintaining a daily DSA streak on NeetCode (Python)
-- 📫 **Reach me** — email / LinkedIn above
+-  **Currently building** — **SattvikBhojnam**, a full-stack cloud-kitchen platform, plus its dedicated 6-agent AI microservice
+-  **Learning** — advanced LangGraph patterns, tools/function-calling, and memory persistence
+-  **Ask me about** — LLM agents, RAG systems, applied NLP, FastAPI
+-  **Off-hours** — maintaining a daily DSA streak on NeetCode (Python)
+-  **Reach me** — email / LinkedIn above
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🌟 Flagship
+###  Flagship
 
-#### 🍲 SattvikBhojnam — Full-Stack Cloud Kitchen Platform
+####  SattvikBhojnam — Full-Stack Cloud Kitchen Platform
 Production platform for a premium sattvic cloud kitchen. FastAPI + PostgreSQL backend with Redis + Celery for async workflows, Next.js 14 frontend, live kitchen streaming, OTP auth, and full order + delivery management.
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 🔗 [sattvikbhojnam.com](https://sattvikbhojnam.com) · [Backend](https://github.com/Nitesh-lng/SatvikBhojanam-Backend) · [Frontend](https://github.com/Nitesh-lng/SatvikBhojanam-Frontend)
 
-#### 🤖 SattvikBot — Agentic AI Microservice
+#### SattvikBot — Agentic AI Microservice
 Standalone LLM microservice powering the platform. 6-agent LangGraph supervisor–specialist system (Router, Menu, Order, Schedule, Seva, General) with GPT-4o / GPT-4o-mini tiered routing, FAISS RAG, a Redis + PostgreSQL two-tier memory layer, and SSE streaming.
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white) ![SSE](https://img.shields.io/badge/SSE_Streaming-6B2530?style=flat-square)
 
 🔗 [sattvikbot-ai-service](https://github.com/Nitesh-lng/sattvikbot-ai-service)
 
-#### 💬 PromptManagement-Chatbot
+####  PromptManagement-Chatbot
 Multi-agent support bot with a supervisor router + 4 specialist agents, a versioned prompt registry, and MessagesPlaceholder-based conversational memory. A clean demonstration of production prompt management with LangChain.
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![License](https://img.shields.io/badge/MIT_License-green?style=flat-square)
 
 🔗 [github.com/Nitesh-lng/PromptManagement-Chatbot](https://github.com/Nitesh-lng/PromptManagement-Chatbot)
 
-### 📦 More Projects
+###  More Projects
 
 - **LangGraph AI Agent** — Multi-LLM agent with tool use & live web search. `LangGraph · Groq · OpenAI · Tavily` → [repo](https://github.com/Nitesh-lng/langgraph-ai-agent)
 - **RAG-PDF-DeepSeek** — Document-based RAG pipeline. `LangChain · FAISS · DeepSeek` → [repo](https://github.com/Nitesh-lng/RAG-PDF-DeepSeek)
@@ -76,7 +76,7 @@ Multi-agent support bot with a supervisor router + 4 specialist agents, a versio
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages** &nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -116,7 +116,7 @@ Multi-agent support bot with a supervisor router + 4 specialist agents, a versio
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <!--
   NOTE: The two stats cards below use the PUBLIC github-readme-stats
@@ -131,7 +131,7 @@ Multi-agent support bot with a supervisor router + 4 specialist agents, a versio
 
 ---
 
-## 🔥 Contribution Streak
+##  Contribution Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitesh-lng&theme=tokyonight&hide_border=true" />
@@ -139,7 +139,7 @@ Multi-agent support bot with a supervisor router + 4 specialist agents, a versio
 
 ---
 
-## 📈 Activity Graph
+##  Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitesh-lng&theme=react-dark&hide_border=true&count_private=true" width="100%" alt="Contribution Graph" />
@@ -147,11 +147,11 @@ Multi-agent support bot with a supervisor router + 4 specialist agents, a versio
 
 ---
 
-## 📫 Connect
+##  Connect
 
-- ✉️ **Email:** nnitesh0101@gmail.com <!-- EDIT if needed -->
-- 🔗 **LinkedIn:** [linkedin.com/in/kumarnitesh97](https://www.linkedin.com/in/kumarnitesh97/)
-- 🔗 **Kaggle:** [kaggle.com/niteshk97](https://www.kaggle.com/niteshk97)
+-  **Email:** nnitesh0101@gmail.com <!-- EDIT if needed -->
+-  **LinkedIn:** [linkedin.com/in/kumarnitesh97](https://www.linkedin.com/in/kumarnitesh97/)
+-  **Kaggle:** [kaggle.com/niteshk97](https://www.kaggle.com/niteshk97)
 
 ---
 
