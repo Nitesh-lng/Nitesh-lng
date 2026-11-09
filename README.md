@@ -33,7 +33,7 @@
 
 ##  About Me
 
-**AI Engineer (4 Yrs) building production agentic systems - multi-agent orchestration with LangGraph, advanced RAG with dense vector retrieval & re-ranking, stateful agent memory and LLM microservices, deployed on Docker, Kubernetes & AWS.
+AI Engineer (4 Yrs) building production agentic systems - multi-agent orchestration with LangGraph, advanced RAG with dense vector retrieval & re-ranking, stateful agent memory and LLM microservices, deployed on Docker, Kubernetes & AWS.
 
 -  **Currently building** — **SattvikBhojnam**, a full-stack cloud-kitchen platform, plus its dedicated 6-agent AI microservice
 -  **Learning** — advanced LangGraph patterns, tools/function-calling, and memory persistence
